@@ -1,3 +1,5 @@
+#returns the longest common prefix from a list of strings eg strs = ["flow", "flower", "floating"]
+
 class Solution(object):
     def longestCommonPrefix(self, strs):
         output = ''
